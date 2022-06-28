@@ -10,12 +10,6 @@ A versão final do código de cada sprint deverá estar na branch principal do r
 
 ---
 
-No fork de vocês, favor alterar este README para adicionar os links correspondentes para os seguintes itens:
-
-**Repositório de Backend**: https://github.com/franSborges/back-integral-m05-desafio-t05
-
-**Repositório de Frontend**: https://github.com/franSborges/front-integral-m05-desafio-t05
-
 **URL da aplicação funcionando**: https://sgf-customers.vercel.app
 
 ---
